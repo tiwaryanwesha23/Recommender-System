@@ -1,5 +1,4 @@
 # Recommender-System
-Welcome to the Movie Recommender System repository!
 
 🎉 Welcome to the Movie Recommender System repository!
 
