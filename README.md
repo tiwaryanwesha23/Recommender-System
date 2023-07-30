@@ -1,4 +1,14 @@
 # Recommender-System
+Welcome to the Movie Recommender System repository!
+
+This project focuses on building an efficient and accurate movie recommender system using item-based collaborative filtering. 
+The system analyzes user-item interactions to establish item-item similarity, generating personalized movie recommendations for users. 
+The MovieLens dataset is used for training and evaluation, and Python with Pandas and NumPy is employed for data handling and analysis. 
+The project's objective is to provide valuable insights into real-world recommender system challenges and showcase the implementation of item-based collaborative filtering. 
+Feel free to explore the code, contribute, and share feedback to improve the system further. 
+Happy Recommending!
+
+
 SUMMARY
 ================================================================================
 
